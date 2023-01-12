@@ -5,5 +5,6 @@ This birthday gift site was a project I developed to put to the test and apply m
 
 ## Preview
 
+![Alt text](/images/site.png)
 
 Developer: Shuaib Ahmed
